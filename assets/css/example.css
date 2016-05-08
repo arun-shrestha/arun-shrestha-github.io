@@ -1,0 +1,65 @@
+body, body input, body textarea, body .btn, body button, p {
+    font-family: "Roboto", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Roboto Slab", sans-serif;
+    font-weight: 400;
+    text-transform: none;
+}
+
+.example-colors{
+  list-style: none;
+  padding: 0px;
+  margin: 40px;
+}
+.example-colors li{
+  display: inline-block;
+  height: 70px;
+  width: 200px;
+  margin: 0px;
+  text-align: center;
+}
+
+.c-1{
+  color: white;
+  background-color: #4B3845;
+}
+.c-2{
+  color: white;
+  background-color: #645862;
+}
+.c-3{
+  color: white;
+  background-color: #9C9C9C;
+}
+.c-4{
+  color: white;
+  background-color: #FE4A4A;
+}
+
+img{
+ width: 400px;
+ height: 250px;
+ margin: 40px;
+}
+
+.img-one{
+  border: 2px solid #4B3845;
+}
+.img-two{
+  border: 2px solid #645862;
+}
+
+.img-three{
+  border: 2px solid #FE4A4A;
+}
+
+.logo{
+  width: 200px;
+  height: auto;
+}
+
+.background-color-for-button {
+  background-color: #645862;
+}
